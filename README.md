@@ -77,8 +77,8 @@ Unix tools:
 * [RCM] for managing company and personal dotfiles
 * [Watchman] for watching for filesystem events
 * [Zsh] as your shell
-* [Fish] as your shell
-* [Slack] as your shell
+* [Fish] as awesome shell
+* [Slack] for communicating with the team
 
 [Exuberant Ctags]: http://ctags.sourceforge.net/
 [Git]: https://git-scm.com/
