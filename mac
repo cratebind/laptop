@@ -148,10 +148,6 @@ if brew list | grep --silent "qt@5.5"; then
   brew link --force qt@5.5
 fi
 
-fancy_echo "Update heroku binary..."
-brew unlink heroku
-brew link --force heroku
-
 fancy_echo "Configuring asdf version manager..."
 if [ ! -d "$HOME/.asdf" ]; then
   git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.5.0
